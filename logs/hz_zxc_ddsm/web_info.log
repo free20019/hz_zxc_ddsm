@@ -1,0 +1,234 @@
+2020-12-08 17:24:19.693 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 8260 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 17:24:19.697 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 17:24:19.826 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-08 17:24:19.826 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-08 17:24:21.751 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 17:24:21.759 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 17:24:21.759 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 17:24:21.760 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 17:24:21.853 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 17:24:21.853 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2026 ms
+2020-12-08 17:24:23.166 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 17:24:23.228 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 17:24:23.273 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 17:24:23.467 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 17:24:23.482 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 17:24:23.483 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 17:24:23.498 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 17:24:23.524 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 17:24:23.634 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 4.633 seconds (JVM running for 7.26)
+2020-12-08 18:25:55.337 [Thread-15] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 18:25:55.789 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 8260 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 18:25:55.789 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 18:25:56.803 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 18:25:56.804 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 18:25:56.805 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 18:25:56.805 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 18:25:56.839 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 18:25:56.839 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1046 ms
+2020-12-08 18:25:56.859 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-12-08 18:25:56.876 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-12-08 18:25:58.474 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 8260 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 18:25:58.474 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 18:25:59.123 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 18:25:59.124 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 18:25:59.124 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 18:25:59.124 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 18:25:59.256 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 18:25:59.256 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 776 ms
+2020-12-08 18:25:59.389 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 18:25:59.417 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 18:25:59.420 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 18:25:59.474 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 18:25:59.477 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 18:25:59.478 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 18:25:59.479 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 18:25:59.483 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 18:25:59.500 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 1.076 seconds (JVM running for 3703.127)
+2020-12-08 18:25:59.503 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 19:10:27.628 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - Starting HzZxcDdsmApplicationTests using Java 1.8.0_131 on fatherOfSun with PID 7904 (started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:10:27.646 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-08 19:10:30.297 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:10:30.597 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:10:31.058 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:10:31.080 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:10:31.118 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:10:31.248 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - Started HzZxcDdsmApplicationTests in 4.161 seconds (JVM running for 6.792)
+2020-12-08 19:10:31.766 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:11:26.015 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - Starting HzZxcDdsmApplicationTests using Java 1.8.0_131 on fatherOfSun with PID 12852 (started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:11:26.020 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-08 19:11:28.450 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:11:28.844 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:11:29.248 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:11:29.271 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:11:29.309 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:11:29.452 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - Started HzZxcDdsmApplicationTests in 3.936 seconds (JVM running for 4.863)
+2020-12-08 19:11:29.732 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:19:00.344 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - Starting HzZxcDdsmApplicationTests using Java 1.8.0_131 on fatherOfSun with PID 2392 (started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:19:00.347 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-08 19:19:02.795 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:19:03.200 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:19:03.773 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:19:03.801 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:19:03.854 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:19:04.060 [main] INFO  com.twkf.HzZxcDdsmApplicationTests - Started HzZxcDdsmApplicationTests in 4.248 seconds (JVM running for 6.318)
+2020-12-08 19:19:04.364 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:21:35.574 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:21:35.577 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:21:35.618 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-08 19:21:35.618 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-08 19:21:37.102 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:21:37.114 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:21:37.115 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:21:37.115 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:21:37.224 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:21:37.224 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1605 ms
+2020-12-08 19:21:37.691 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:21:37.749 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:21:37.766 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 19:21:37.949 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:21:37.966 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 19:21:37.967 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:21:37.983 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:21:38.009 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:21:38.120 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 2.98 seconds (JVM running for 4.477)
+2020-12-08 19:24:51.653 [Thread-11] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:24:51.844 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:24:51.844 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:24:52.449 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:24:52.450 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:24:52.451 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:24:52.451 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:24:52.484 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:24:52.485 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 634 ms
+2020-12-08 19:24:52.606 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:24:52.632 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:24:52.634 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 19:24:52.707 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:24:52.711 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 19:24:52.712 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:24:52.713 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:24:52.719 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:24:52.742 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 0.953 seconds (JVM running for 199.099)
+2020-12-08 19:24:52.745 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 19:24:54.647 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:24:54.969 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:24:54.969 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:24:55.285 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:24:55.285 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:24:55.285 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:24:55.286 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:24:55.313 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:24:55.313 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 341 ms
+2020-12-08 19:24:55.400 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:24:55.421 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:24:55.423 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 19:24:55.464 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:24:55.467 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 19:24:55.467 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:24:55.468 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:24:55.472 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:24:55.487 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 0.558 seconds (JVM running for 201.844)
+2020-12-08 19:24:55.488 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 19:27:52.102 [Thread-24] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:27:52.353 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:27:52.353 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:27:52.809 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:27:52.810 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:27:52.811 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:27:52.811 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:27:52.846 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:27:52.846 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 489 ms
+2020-12-08 19:27:52.864 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-12-08 19:27:52.871 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-12-08 19:27:54.443 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:27:54.444 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:27:54.873 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:27:54.873 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:27:54.874 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:27:54.874 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:27:54.901 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:27:54.901 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 454 ms
+2020-12-08 19:27:55.016 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:27:55.043 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:27:55.047 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 19:27:55.110 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:27:55.112 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 19:27:55.113 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:27:55.114 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:27:55.118 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:27:55.132 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 0.739 seconds (JVM running for 381.489)
+2020-12-08 19:27:55.133 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 19:29:31.477 [Thread-29] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:29:31.699 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:29:31.699 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:29:32.092 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:29:32.092 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:29:32.093 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:29:32.093 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:29:32.119 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:29:32.120 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 417 ms
+2020-12-08 19:29:32.215 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:29:32.243 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:29:32.246 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 19:29:32.290 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:29:32.293 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 19:29:32.294 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:29:32.295 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:29:32.299 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:29:32.313 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 0.654 seconds (JVM running for 478.67)
+2020-12-08 19:29:32.315 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 19:29:34.266 [Thread-37] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:29:34.428 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:29:34.428 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:29:34.711 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:29:34.712 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:29:34.712 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:29:34.712 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:29:34.737 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:29:34.738 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 308 ms
+2020-12-08 19:29:34.818 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:29:34.839 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:29:34.843 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 19:29:34.884 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:29:34.888 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 19:29:34.889 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:29:34.890 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:29:34.893 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:29:34.906 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 0.508 seconds (JVM running for 481.263)
+2020-12-08 19:29:34.907 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 19:31:03.300 [Thread-42] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:31:03.480 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:31:03.480 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:31:03.896 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:31:03.897 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:31:03.897 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:31:03.897 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:31:03.925 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:31:03.925 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 442 ms
+2020-12-08 19:31:03.936 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-12-08 19:31:03.940 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-12-08 19:31:44.575 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Starting HzZxcDdsmApplication using Java 1.8.0_131 on fatherOfSun with PID 21004 (E:\ideaworkspace\hz_zxc_ddsm\target\classes started by 黄显乐 in E:\ideaworkspace\hz_zxc_ddsm)
+2020-12-08 19:31:44.576 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - No active profile set, falling back to default profiles: default
+2020-12-08 19:31:45.008 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8096 (http)
+2020-12-08 19:31:45.009 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:31:45.009 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 19:31:45.009 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 19:31:45.041 [restartedMain] INFO  o.a.c.c.C.[Tomcat-2].[localhost].[/hz_zxc_ddsm] - Initializing Spring embedded WebApplicationContext
+2020-12-08 19:31:45.041 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 460 ms
+2020-12-08 19:31:45.144 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 19:31:45.164 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 19:31:45.166 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-08 19:31:45.207 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8096"]
+2020-12-08 19:31:45.210 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8096 (http) with context path '/hz_zxc_ddsm'
+2020-12-08 19:31:45.211 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 19:31:45.211 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 19:31:45.215 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 19:31:45.226 [restartedMain] INFO  com.twkf.HzZxcDdsmApplication - Started HzZxcDdsmApplication in 0.694 seconds (JVM running for 611.584)
+2020-12-08 19:31:45.228 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged

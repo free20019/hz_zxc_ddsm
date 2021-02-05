@@ -1,0 +1,35 @@
+server:
+  port: 8096
+  servlet:
+    context-path: /hz_zxc_ddsm
+
+#jdbc
+spring:
+  datasource:
+    username: lklh
+    password: lklh
+    url: jdbc:oracle:thin:@192.168.0.113:1521:orcl
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    # Hikari will use the above plus the following to setup connection pooling
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 15
+      auto-commit: true
+      idle-timeout: 30000
+      pool-name: DatebookHikariCP
+      max-lifetime: 1800000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1 from dual
+
+pagehelper:
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql
+
+logging:
+  level:
+    com.twkf.dao: DEBUG
+
+#spring.jackson.date-format: yyyy-MM-dd HH:mm:ss
+#spring.jackson.time-zone: GMT+8
